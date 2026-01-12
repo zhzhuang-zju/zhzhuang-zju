@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+zhzhuang-zju is a software engineer and works 100% on open source, focusing on multi-cluster scheduling, AI application deployment, and CI/CD to accelerate the growth and implementation of cloud-native projects. He is now a core developer of Karmada, a CNCF incubation project.
+
+He actively shares his expertise, having presented Karmada's use in AI/big data workload deployment at KCD 2025, and will deliver a presentation at the upcoming KubeCon Europe 2026 co-located event, ArgoCon.
